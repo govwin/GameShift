@@ -1,0 +1,5 @@
+Send {F17}
+
+exit
+value := 128
+send %value%
